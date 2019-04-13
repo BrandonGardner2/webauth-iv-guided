@@ -1,6 +1,6 @@
 # Web Auth IV Guided Project
 
-Guided project for **Web Auth IV** Module.
+Guided project for **Web Auth IV** Module..
 
 ## Prerequisites
 
